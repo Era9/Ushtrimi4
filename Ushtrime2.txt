@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		Java 2 WEB
+	</title>
+</head>
+<body>
+	<header>
+		<img src="UBTlogo.png" alt="Home About Countacts Us"/>
+	</header>
+
+	<main>
+		<ul>
+			
+				<ol>
+					<li>Lajme</li>
+					<li>Teknologji</li>
+					<li>Sport</li>
+					<li>Shendetesi</li>
+					<li>Pune</li>
+					<li>Informacion</li>
+					<li>Extra</li>
+				</ol>
+			
+		</ul>
+		
+
+		<form action="">
+			<label for="inputName">emri</label>
+			<input type="" name="" id="inputName" minlength="5" maxlength=""<label for="i">pranon tekst cfardo lloji </label> 
+			<br/>
+			<label for="">mbiemri</label>
+			<input type="" name="" id="" <label for="">pranon tekst cfardo lloji</label>
+			<br/>
+			<label for="">mosha</label>
+			<input type="number" name="" id="" min="10" max="20"<label for="">pranon vetem numer</label>
+			<br/>
+			<label for="">email</label>
+			<input type="email" name="" id="" <label>pranon vetem email</label>
+			<br/>
+			<label for="">data</label>
+			<input type="data" name="" id="" min="" max=""<label>pranon vetem data</label>
+			<br/>
+			
+			<label for="male">Mashkull</label>
+			<input type="radio" name="gender" id="male"<label for="female">Femer</label>
+			<input type="radio" name="gender" id="">
+			<br/>
+
+			<label for="female">Femra</label>
+			<input type="radio" name="gender" id="femal"/>
+
+			<input type="submit" value="Prishtine
+		"/>
+			
+		</form>
+		
+	</main>
+	<footer>
+		
+	</footer>
+</body>
+</html>
